@@ -9,7 +9,7 @@ Cyber threats are methods attackers use to harm systems or steal data. Below is 
 - **Malware**  
   **Definition:** Software designed to infiltrate, damage, or control devices without the user’s consent.  
   **Examples:**  
-  - **Virus:** Attaches to files and spreads when executed.  
+  - **Virus:** Attaches to files and spreads when executed.
   - **Worm:** Self‑replicates across networks without user action.  
   - **Ransomware:** Encrypts files and demands payment.  
   - **Spyware:** Monitors user activity and steals information.
@@ -61,6 +61,8 @@ Cyber threats are methods attackers use to harm systems or steal data. Below is 
 ## CIA Triad (from GeeksforGeeks)
 
 The **CIA Triad** outlines the three fundamental goals of information security. Every control or policy should support one or more of these:
+![alt text](image.png)
+Reference: https://www.cybermaxx.com/resources/what-is-the-cia-triad/
 
 1. **Confidentiality**  
    - **Definition:** Ensuring that sensitive information is accessed only by authorized individuals.  

@@ -1,5 +1,3 @@
-### `01-setup.md`
-
 # 01 - Tool Installation and Git Basics
 
 This document outlines the full setup process for a cybersecurity lab, including virtualization tools, Kali Linux, development environment setup, and version control using Git and GitHub.
